@@ -190,12 +190,12 @@ img {
 .logo {
   font-family: 'Bebas Neue', sans-serif;
   font-size: 1.6rem;
-  color: var(--white);
+  color: #1e3a6e;
   letter-spacing: 0.08em;
 }
 
 .logo span {
-  color: var(--cyan);
+  color: #1e3a6e;
 }
 
 .nav-links {
