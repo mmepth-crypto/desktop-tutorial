@@ -201,17 +201,21 @@ img {
 .nav-links {
   display: flex;
   gap: 2.4rem;
+   list-style: none;
 }
 
 .nav-links a {
-  color: rgba(255,255,255,0.82);
+  color: rgba(255,255,255,0.85);
   font-size: 0.9rem;
   font-weight: 500;
   letter-spacing: 0.03em;
-  transition: color var(--transition);
+  text-decoration: none
+  transition: color 0.3s ease;
   position: relative;
 }
-
+.nav-links a:hover {
+   color: #ffd700;
+}
 .nav-links a::after {
   content: '';
   position: absolute;
