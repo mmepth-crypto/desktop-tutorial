@@ -170,7 +170,7 @@ img {
   padding: 1.2rem 0;
   transition: background var(--transition), box-shadow var(--transition), padding var(--transition);
 }
-
+background: #1565ff
 .navbar.scrolled {
   background: rgba(10, 22, 40, 0.96);
   backdrop-filter: blur(12px);
