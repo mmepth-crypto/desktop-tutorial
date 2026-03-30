@@ -190,16 +190,11 @@ img {
 .logo {
   font-family: 'Bebas Neue', sans-serif;
   font-size: 1.6rem;
-  background: linear-gradient(180deg, #0a0a2e 0%, #1a4fd6 100%);
-   -webkit-background-clip: text;
-   -webkit-text-fill-color: transparent;
-   background-clip: text;
+  color: #1a3a8a
   letter-spacing: 0.08em;
 }
 
-.logo span background: linear-gradient(180deg, #0d1b4b 0%, #1a6bcc 100%)
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+.logo span {color: #1a3a8a
  background-clip: text;
 
 .nav-links {
